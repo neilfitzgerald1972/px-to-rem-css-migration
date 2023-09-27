@@ -1,0 +1,22 @@
+{
+  "name": "px-to-rem-css-migration",
+  "version": "0.0.1",
+  "description": "Convert px in css to use rem",
+  "bin": {
+    "pxtorem": "./px-to-rem-css-migration-cli.mjs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "conversion",
+    "px",
+    "rem"
+  ],
+  "author": "Neil Fitzgerald",
+  "license": "ISC",
+  "dependencies": {
+    "code-migrate": "^0.11.1"
+  }
+}
