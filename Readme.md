@@ -8,7 +8,7 @@
 
 px-to-rem-migration is a migration script that converts pixel values to rem values in any CSS fileS. This script is intented for use with [code-migrate](https://github.com/ranyitz/code-migrate). 
 
-I stringly recommend using TypeScript when writing your own migration script. I tried to simplify by making the migration script a js file and ended up going down the CommonJS vs module rabbit hole. I went back to TypeScript as that ended up being the simplier solution.
+I strongly recommend using TypeScript when writing your own migration script. I tried to simplify by making the migration script a js file and ended up going down the CommonJS vs module rabbit hole. I went back to TypeScript as that ended up being the simplier solution.
 
 While I've tried to do the work to make this also run as a standalone CLI, you can easily lift the script and use it in a more complex migration process.
 
