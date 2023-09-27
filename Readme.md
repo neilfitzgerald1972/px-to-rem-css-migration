@@ -24,11 +24,7 @@ Features:
 
 ## Installation
 
-Mostly I expect you to just lift the script, but you can install as a CLI utility.
-
-```
-npm i px-to-rem-css-migration -g
-```
+Mostly I expect you to just lift the script
 
 ## Contribution
 
